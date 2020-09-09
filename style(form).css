@@ -1,0 +1,102 @@
+fieldset {
+	display:inline-block;
+	border-color: #F8F8FF;
+}
+.logo {
+	padding-left:20px;
+}
+h1 {
+	padding-top:50px;
+	font-family:helvetica;
+	font-size:25px;
+	text-align:left;
+	padding-left:28px;
+}
+h4 {
+	
+	font-family:arial;
+	text-align:left;
+	padding-left:28px;
+}
+h5 { 
+    text-align:left;
+	padding-left:25px;
+	font-family:helvetica;
+	font-size:12px;
+	font-weight:bold;
+}
+.ab {
+	width:28%;
+	height:32px;
+	margin:5px;	
+}
+.aa {
+	color:#1E90FF;
+	font-weight:bold;
+	font-family:arial;
+	padding-left:7px;
+}
+.bb {
+
+	width:60%;
+	height:32px;
+	margin:5px;
+}
+.cc {
+	width:26%;
+	height:32px;
+	padding-right:10px;
+	margin:4px;
+}
+
+p {
+	padding-top:0px;
+	text-align:left;
+	padding-left:20px;
+	font-weight:bold;
+}
+.login {
+	border:none;
+	color:#1E90FF;
+	background-color:#FFFFFF;
+	padding:22px;
+	font-size:15px;
+	font-family:helvetica;
+	font-weight:bold;
+	position:relative;
+	float:left;
+}
+.berikutnya {
+	border:none;
+	background-color:#1E90FF;
+	color:#FFFFFF;
+	padding:10px;
+	float:center;
+	font-weight:bold;
+	margin:10px;
+	font-family:helvetica;
+}
+.bhs {
+	padding-top:1px;
+	background-color:#FFFFFF;
+	border:none;
+	padding-right:5px;
+}
+.buttona {
+	border:none;
+	background-color:#FFFFFF;
+	padding-top:5px;
+}
+.buttonb {
+    border:none;
+	background-color:#FFFFFF;
+	padding-left:10px;
+	padding-top:5px;
+
+}
+.val {
+	padding-left:320px;
+}
+.but {
+	padding-left:285px;
+}
